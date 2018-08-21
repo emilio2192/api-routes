@@ -1,0 +1,29 @@
+{
+  "name": "api-routes",
+  "version": "1.0.0",
+  "description": "api for return route optimized ",
+  "main": "index.js",
+  "scripts": {
+    "test": "apiroutes",
+    "start":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilio2192/api-routes.git"
+  },
+  "keywords": [
+    "api-routes"
+  ],
+  "author": "Emilio Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilio2192/api-routes/issues"
+  },
+  "homepage": "https://github.com/emilio2192/api-routes#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

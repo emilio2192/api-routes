@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "apiroutes",
-    "start":"nodemon server.js"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "nodemon": "^1.18.3"
   },
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "geolib": "^2.0.24"
   }
 }
